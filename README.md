@@ -1,6 +1,8 @@
-# Awesome-MUSIML
+![Image](https://github.com/user-attachments/assets/b85ec3e9-bfad-4ac0-a360-d96877998ced)
 
-> A curated list of awesome projects, datasets, tools, and resources at the intersection of Machine Learning (ML) and Muslims/Islamic content. Contributions are welcome!
+# Awesome-MUSIML Repositories
+
+> Here is a curated list of awesome projects, datasets, tools, and resources at the intersection of Machine Learning (ML) and Muslims/Islamic content. Contributions are welcome!
 
 ## Table of Contents
 
@@ -29,41 +31,27 @@ Welcome to **Awesome-MUSIML**! This repository collects and categorizes projects
 ## Islamic Content Projects
 
 ### Quran and Hadith
-- **[Tarteel](https://www.tarteel.ai/)**: AI-powered Quran recitation assistant that provides real-time feedback.
-- **[Quran.com API](https://quran.com/)**: API for Quran data, including translations, recitations, and more.
-- **Hadith NLP**: Tools for natural language processing of hadith texts. *(Add your project!)*
 
 ### Islamic Education Tools
-- **Islamic Tutor AI**: Intelligent tutoring system for Islamic studies.
-- **Arabic Morphological Analyzer**: Tools for teaching Arabic language skills. *(Add your project!)*
 
 ### Prayer and Fasting Apps
-- **[Muslim Pro](https://www.muslimpro.com/)**: Comprehensive Islamic app for prayer times, Qibla direction, and Quran.
-- **Ramadan AI Tracker**: ML-based fasting tracker with insights and tips. *(Add your project!)*
 
 ---
 
 ## Projects Related to Muslims
 
 ### Cultural and Linguistic Datasets
-- **[Arabic NLP Datasets](https://github.com/arabic-nlp/)**: Curated datasets for Arabic natural language processing.
-- **Islamic Names Dataset**: Dataset for generating and analyzing Islamic names. *(Add your project!)*
-
-### Bias and Fairness in AI for Muslims
-- **AI Bias Audits**: Studies addressing algorithmic bias against Muslims in search engines and social media platforms.
-- **Hate Speech Detection**: ML tools for identifying Islamophobic content online. *(Add your project!)*
 
 ---
 
 ## Challenges and Open Problems
 
 ### AI Ethics and Islam
-- **Ethical AI for Muslims**: Frameworks for aligning AI ethics with Islamic values.
-- **Halal AI Certification**: Ongoing discussions on defining Halal standards for AI systems.
 
 ### Underrepresentation of Muslims in ML
-- **Diversity in Tech**: Reports and initiatives for increasing representation of Muslims in AI/ML fields.
-- **Mentorship Programs**: Opportunities for Muslim professionals in tech. *(Add your project!)*
+- **Diversity in Tech**
+- **Mentorship Programs**
+- **AI Bias Audits**
 
 ---
 
