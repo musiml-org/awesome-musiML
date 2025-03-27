@@ -73,9 +73,10 @@ Learn more at **[www.musiml.org](https://www.musiml.org)**.
 
 ## 🏢 Organizations and Initiatives
 
-| Name | Description | 🖼️ Logo | 🖼️ Image |
-|------|-------------|---------|----------|
-| - | – | – | – |
+| Name | Description | 🖼️ Logo | Link |
+|------|-------------|---------|------|
+| Muslims in ML | Muslims In ML (MusIML) is an affinity workshop dedicated to amplifying the voices of Muslim researchers in the fields of machine learning and artificial intelligence and addressing challenges and research topics that are particularly relevant to Muslims. | – | [www.musiml.org](https://www.musiml.org/) |
+| Islamic Digital Humanities Network | IDHN connects scholars working on digital approaches to Islamic and Middle Eastern Studies, sharing research, tools, and collaboration opportunities. | – | [idhn.org](https://idhn.org/) |
 
 ---
 
