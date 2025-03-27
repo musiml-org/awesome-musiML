@@ -1,66 +1,92 @@
-![Image](https://github.com/user-attachments/assets/b85ec3e9-bfad-4ac0-a360-d96877998ced)
+# 🌙 Awesome MusiML
 
-# Awesome-MUSIML Repositories
+A curated list of resources at the intersection of Machine Learning / Artificial Intelligence and Muslim-related topics, communities, or regions.
 
-> Here is a curated list of awesome projects, datasets, tools, and resources at the intersection of Machine Learning (ML) and Muslims/Islamic content. Contributions are welcome!
+This list is maintained in a collaborative manner by the [**Muslims in ML (MusIML)**](https://www.musiml.org) — an affinity workshop dedicated to **amplifying the voices of Muslim researchers** in machine learning and AI, and promoting research that addresses challenges relevant to Muslim communities around the world.
 
-## Table of Contents
+MusIML will be held at major ML conferences including **NeurIPS, ICLR, ICML**, and others.
 
-1. [Introduction](#introduction)
-2. [Islamic Content Projects](#islamic-content-projects)
-    - [Quran and Hadith](#quran-and-hadith)
-    - [Islamic Education Tools](#islamic-education-tools)
-    - [Prayer and Fasting Apps](#prayer-and-fasting-apps)
-3. [Projects Related to Muslims](#projects-related-to-muslims)
-    - [Cultural and Linguistic Datasets](#cultural-and-linguistic-datasets)
-    - [Bias and Fairness in AI for Muslims](#bias-and-fairness-in-ai-for-muslims)
-4. [Challenges and Open Problems](#challenges-and-open-problems)
-    - [AI Ethics and Islam](#ai-ethics-and-islam)
-    - [Underrepresentation of Muslims in ML](#underrepresentation-of-muslims-in-ml)
-5. [Contributing](#contributing)
-6. [License](#license)
+🕌 **Key tracks include** (open to all researchers):
+- 🕋 Computational analysis of Islamic texts  
+- 🤲 ML for social good in Muslim communities  
+- ⚖️ Mitigating algorithmic bias affecting Muslims  
+- 🗣️ Language and speech technologies (Arabic, Urdu, Persian, etc.)  
+- 📊 Data collection and representation  
+
+Learn more at **[www.musiml.org](https://www.musiml.org)**.
 
 ---
 
-## Introduction
+## 📚 Table of Contents
 
-Welcome to **Awesome-MUSIML**! This repository collects and categorizes projects and resources that combine Machine Learning with Islamic content or address challenges and opportunities for Muslims in the field of Artificial Intelligence and Data Science. We aim to foster collaboration, innovation, and inclusion in these areas.
-
----
-
-## Islamic Content Projects
-
-### Quran and Hadith
-
-### Islamic Education Tools
-
-### Prayer and Fasting Apps
+- [🕋 Islamic Scriptures and Digital Humanities](#-islamic-scriptures-and-digital-humanities)
+- [🗣️ Language and Speech Technologies](#-language-and-speech-technologies)
+- [🤲 ML for Social Good in Muslim Communities](#-ml-for-social-good-in-muslim-communities)
+- [📊 Datasets Related to Muslim Communities](#-datasets-related-to-muslim-communities)
+- [⚖️ Bias, Fairness, and Representation](#-bias-fairness-and-representation)
+- [🏢 Organizations and Initiatives](#-organizations-and-initiatives)
+- [🛠️ Contributing](#-contributing)
 
 ---
 
-## Projects Related to Muslims
+## 🕋 Islamic Scriptures and Digital Humanities
 
-### Cultural and Linguistic Datasets
-
----
-
-## Challenges and Open Problems
-
-### AI Ethics and Islam
-
-### Underrepresentation of Muslims in ML
-- **Diversity in Tech**
-- **Mentorship Programs**
-- **AI Bias Audits**
+| Name | Description | link | 🖼️ Image | Contact |
+|------|-------------|---------|----------|
+| Quranic Data | Quranic Arabic Corpus
+ | [https://pypi.org/project/quranic-nlp/](https://corpus.quran.com/) | – | - |
+| Quranic NLP Python Library | QuaranicTools: A Python NLP Library for Quranic NLP
+ | https://pypi.org/project/quranic-nlp/ | – | Ehsaneddin Asgari (asgari @ berkeley .edu)|
 
 ---
 
-## Contributing
+## 🗣️ Language and Speech Technologies
 
-We welcome contributions from everyone! If you have a project, dataset, or resource that fits the theme of this repository, feel free to open an issue or submit a pull request. Check out the [Contributing Guidelines](CONTRIBUTING.md) for more details.
+| Name | Description | link | 🖼️ Image |
+|------|-------------|---------|----------|
+| - | – | – | – |
 
 ---
 
-## License
+## 🤲 ML for Social Good in Muslim Communities
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, share, and contribute!
+| Name | Description | link | 🖼️ Image |
+|------|-------------|---------|----------|
+| - | – | – | – |
+
+---
+
+## 📊 Datasets Related to Muslim Communities
+
+| Name | Description | link | 🖼️ Image |
+|------|-------------|---------|----------|
+| - | – | – | – |
+
+---
+
+## ⚖️ Bias, Fairness, and Representation
+
+| Name | Description | link | 🖼️ Image |
+|------|-------------|---------|----------|
+| - | – | – | – |
+
+---
+
+## 🏢 Organizations and Initiatives
+
+| Name | Description | 🖼️ Logo | 🖼️ Image |
+|------|-------------|---------|----------|
+| - | – | – | – |
+
+---
+
+## 🛠️ Contributing
+
+We welcome contributions from everyone! If you have a project, dataset, or resource that fits the theme of this repository, feel free to open an issue or submit a pull request. 
+
+---
+
+## 🧾 License
+
+This project is licensed under the [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
