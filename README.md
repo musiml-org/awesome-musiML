@@ -31,12 +31,11 @@ Learn more at **[www.musiml.org](https://www.musiml.org)**.
 
 ## 🕋 Islamic Scriptures and Digital Humanities
 
-| Name | Description | link | 🖼️ Image | Contact |
-|------|-------------|---------|----------|
-| Quranic Data | Quranic Arabic Corpus
- | [https://pypi.org/project/quranic-nlp/](https://corpus.quran.com/) | – | - |
-| Quranic NLP Python Library | QuaranicTools: A Python NLP Library for Quranic NLP
- | https://pypi.org/project/quranic-nlp/ | – | Ehsaneddin Asgari (asgari @ berkeley .edu)|
+| Name | Description | Link | 🖼️ Image | Contact |
+|------|-------------|------|----------|---------|
+| Quranic Data | Quranic Arabic Corpus | [corpus.quran.com](https://corpus.quran.com/) | – | – |
+| Quranic NLP Python Library | QuaranicTools: A Python NLP Library for Quranic NLP | [PyPI Link](https://pypi.org/project/quranic-nlp/) | – | Ehsaneddin Asgari (asgari@berkeley.edu) |
+
 
 ---
 
